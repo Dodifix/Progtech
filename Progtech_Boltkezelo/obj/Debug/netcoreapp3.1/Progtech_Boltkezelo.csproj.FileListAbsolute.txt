@@ -1,0 +1,13 @@
+C:\Users\Adzo\source\repos\Progtech_Boltkezelo\Progtech_Boltkezelo\obj\Debug\netcoreapp3.1\Progtech_Boltkezelo.csproj.AssemblyReference.cache
+C:\Users\Adzo\source\repos\Progtech_Boltkezelo\Progtech_Boltkezelo\obj\Debug\netcoreapp3.1\Progtech_Boltkezelo.AssemblyInfoInputs.cache
+C:\Users\Adzo\source\repos\Progtech_Boltkezelo\Progtech_Boltkezelo\obj\Debug\netcoreapp3.1\Progtech_Boltkezelo.AssemblyInfo.cs
+C:\Users\Adzo\source\repos\Progtech_Boltkezelo\Progtech_Boltkezelo\obj\Debug\netcoreapp3.1\Progtech_Boltkezelo.csproj.CoreCompileInputs.cache
+C:\Users\Adzo\source\repos\Progtech_Boltkezelo\Progtech_Boltkezelo\bin\Debug\netcoreapp3.1\Progtech_Boltkezelo.exe
+C:\Users\Adzo\source\repos\Progtech_Boltkezelo\Progtech_Boltkezelo\bin\Debug\netcoreapp3.1\Progtech_Boltkezelo.deps.json
+C:\Users\Adzo\source\repos\Progtech_Boltkezelo\Progtech_Boltkezelo\bin\Debug\netcoreapp3.1\Progtech_Boltkezelo.runtimeconfig.json
+C:\Users\Adzo\source\repos\Progtech_Boltkezelo\Progtech_Boltkezelo\bin\Debug\netcoreapp3.1\Progtech_Boltkezelo.runtimeconfig.dev.json
+C:\Users\Adzo\source\repos\Progtech_Boltkezelo\Progtech_Boltkezelo\bin\Debug\netcoreapp3.1\Progtech_Boltkezelo.dll
+C:\Users\Adzo\source\repos\Progtech_Boltkezelo\Progtech_Boltkezelo\bin\Debug\netcoreapp3.1\Progtech_Boltkezelo.pdb
+C:\Users\Adzo\source\repos\Progtech_Boltkezelo\Progtech_Boltkezelo\obj\Debug\netcoreapp3.1\Progtech_Boltkezelo.dll
+C:\Users\Adzo\source\repos\Progtech_Boltkezelo\Progtech_Boltkezelo\obj\Debug\netcoreapp3.1\Progtech_Boltkezelo.pdb
+C:\Users\Adzo\source\repos\Progtech_Boltkezelo\Progtech_Boltkezelo\obj\Debug\netcoreapp3.1\Progtech_Boltkezelo.genruntimeconfig.cache

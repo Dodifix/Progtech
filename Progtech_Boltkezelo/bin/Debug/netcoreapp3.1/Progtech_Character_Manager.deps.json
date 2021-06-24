@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Progtech_Character_Manager/1.0.0": {
+        "runtime": {
+          "Progtech_Character_Manager.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Progtech_Character_Manager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

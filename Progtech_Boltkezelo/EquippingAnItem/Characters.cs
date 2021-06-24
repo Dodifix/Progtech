@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Progtech_Boltkezelo.CharacterCreation;
-namespace Progtech_Boltkezelo.EquippingAnItem
+using Progtech_Character_Manager.CharacterCreation;
+namespace Progtech_Character_Manager.EquippingAnItem
 {
     class Characters : CharacterBase
     {

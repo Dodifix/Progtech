@@ -1,0 +1,12 @@
+C:\Users\Adzo\Desktop\Progtech\Progtech\Progtech_Boltkezelo\bin\Debug\netcoreapp3.1\Progtech_Character_Manager.exe
+C:\Users\Adzo\Desktop\Progtech\Progtech\Progtech_Boltkezelo\bin\Debug\netcoreapp3.1\Progtech_Character_Manager.deps.json
+C:\Users\Adzo\Desktop\Progtech\Progtech\Progtech_Boltkezelo\bin\Debug\netcoreapp3.1\Progtech_Character_Manager.runtimeconfig.json
+C:\Users\Adzo\Desktop\Progtech\Progtech\Progtech_Boltkezelo\bin\Debug\netcoreapp3.1\Progtech_Character_Manager.runtimeconfig.dev.json
+C:\Users\Adzo\Desktop\Progtech\Progtech\Progtech_Boltkezelo\bin\Debug\netcoreapp3.1\Progtech_Character_Manager.dll
+C:\Users\Adzo\Desktop\Progtech\Progtech\Progtech_Boltkezelo\bin\Debug\netcoreapp3.1\Progtech_Character_Manager.pdb
+C:\Users\Adzo\Desktop\Progtech\Progtech\Progtech_Boltkezelo\obj\Debug\netcoreapp3.1\Progtech_Character_Manager.AssemblyInfoInputs.cache
+C:\Users\Adzo\Desktop\Progtech\Progtech\Progtech_Boltkezelo\obj\Debug\netcoreapp3.1\Progtech_Character_Manager.AssemblyInfo.cs
+C:\Users\Adzo\Desktop\Progtech\Progtech\Progtech_Boltkezelo\obj\Debug\netcoreapp3.1\Progtech_Character_Manager.csproj.CoreCompileInputs.cache
+C:\Users\Adzo\Desktop\Progtech\Progtech\Progtech_Boltkezelo\obj\Debug\netcoreapp3.1\Progtech_Character_Manager.dll
+C:\Users\Adzo\Desktop\Progtech\Progtech\Progtech_Boltkezelo\obj\Debug\netcoreapp3.1\Progtech_Character_Manager.pdb
+C:\Users\Adzo\Desktop\Progtech\Progtech\Progtech_Boltkezelo\obj\Debug\netcoreapp3.1\Progtech_Character_Manager.genruntimeconfig.cache

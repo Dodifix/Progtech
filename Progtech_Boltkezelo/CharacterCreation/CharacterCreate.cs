@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Progtech_Boltkezelo.CharacterCreation
+namespace Progtech_Character_Manager.CharacterCreation
 {
      abstract class CharacterCreate
     {

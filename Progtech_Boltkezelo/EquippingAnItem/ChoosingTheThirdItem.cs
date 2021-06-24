@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Progtech_Boltkezelo.EquippingAnItem
+namespace Progtech_Character_Manager.EquippingAnItem
 {
     class ChoosingTheThirdItem : CharacterDecorator
     {

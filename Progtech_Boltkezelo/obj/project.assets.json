@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Adzo\\source\\repos\\Progtech_Boltkezelo\\Progtech_Boltkezelo\\Progtech_Boltkezelo.csproj",
-      "projectName": "Progtech_Boltkezelo",
-      "projectPath": "C:\\Users\\Adzo\\source\\repos\\Progtech_Boltkezelo\\Progtech_Boltkezelo\\Progtech_Boltkezelo.csproj",
+      "projectUniqueName": "C:\\Users\\Adzo\\Desktop\\Progtech\\Progtech\\Progtech_Boltkezelo\\Progtech_Character_Manager.csproj",
+      "projectName": "Progtech_Character_Manager",
+      "projectPath": "C:\\Users\\Adzo\\Desktop\\Progtech\\Progtech\\Progtech_Boltkezelo\\Progtech_Character_Manager.csproj",
       "packagesPath": "C:\\Users\\Adzo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Adzo\\source\\repos\\Progtech_Boltkezelo\\Progtech_Boltkezelo\\obj\\",
+      "outputPath": "C:\\Users\\Adzo\\Desktop\\Progtech\\Progtech\\Progtech_Boltkezelo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Adzo\\AppData\\Roaming\\NuGet\\NuGet.Config",

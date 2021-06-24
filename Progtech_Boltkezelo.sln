@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Progtech_Boltkezelo", "Progtech_Boltkezelo\Progtech_Boltkezelo.csproj", "{61FDC4AB-49DF-413D-AE8F-FE15B6813CD4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Progtech_Character_Manager", "Progtech_Boltkezelo\Progtech_Character_Manager.csproj", "{61FDC4AB-49DF-413D-AE8F-FE15B6813CD4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

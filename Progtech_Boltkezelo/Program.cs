@@ -1,10 +1,10 @@
-﻿using Progtech_Boltkezelo.CharacterCreation;
+﻿using Progtech_Character_Manager.CharacterCreation;
 using System;
 using System.Collections.Generic;
-using Progtech_Boltkezelo.EquippingAnItem;
-using Progtech_Boltkezelo.Map;
+using Progtech_Character_Manager.EquippingAnItem;
+using Progtech_Character_Manager.Map;
 
-namespace Progtech_Boltkezelo
+namespace Progtech_Character_Manager
 {
     class Program
     {

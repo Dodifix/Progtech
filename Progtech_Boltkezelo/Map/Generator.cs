@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Progtech_Boltkezelo.Map
+namespace Progtech_Character_Manager.Map
 {
     class Generator
     {
